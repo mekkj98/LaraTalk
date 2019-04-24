@@ -23,4 +23,4 @@ A Chat application with laravel and laravelwebsocket.
 
 # Check Out the application snapshots.
 
-[Appliation Snapshots for different pages](https://github.com/keshav98/LaraTalk/tree/master/public/assets/images)
+[Application Snapshots for different pages](https://github.com/keshav98/LaraTalk/tree/master/public/assets/images)
