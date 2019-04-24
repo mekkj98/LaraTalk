@@ -1,6 +1,8 @@
 # LaraTalk
 A Chat application with laravel and laravelwebsocket.
 
+![alt text](public/assets/images/chat.png)
+
 
 # Technology that are used in this projects
 * [Laravel 5.8](https://laravel.com/docs/5.8)
@@ -24,3 +26,4 @@ A Chat application with laravel and laravelwebsocket.
 # Check Out the application snapshots.
 
 [Application Snapshots for different pages](https://github.com/keshav98/LaraTalk/tree/master/public/assets/images)
+
