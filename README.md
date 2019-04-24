@@ -19,3 +19,8 @@ A Chat application with laravel and laravelwebsocket.
 5. friends page to see all the friends.
 6. profile page to see the profile (incling last login time).
 7. setting page to change email_hide and gender hide option (so if you hide your gender and email no one will see it).
+
+
+# Check Out the application snapshots.
+
+[Appliation Snapshots for different pages](https://github.com/keshav98/LaraTalk/tree/master/public/assets/images)
