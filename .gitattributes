@@ -1,0 +1,8 @@
+public/* linguist-vendored
+resources/scripts/* linguist-vendored
+* text=auto
+*.css linguist-vendored
+*.scss linguist-vendored
+*.js linguist-vendored
+gitattributes:
+CHANGELOG.md export-ignore
