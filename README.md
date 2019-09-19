@@ -1,4 +1,5 @@
 # LaraTalk
+[![HitCount](http://hits.dwyl.io/mekkj98/LaraTalk.svg)](http://hits.dwyl.io/mekkj98/LaraTalk)
 A Chat application with laravel and laravelwebsocket.
 
 ![alt text](public/assets/images/chat.png)
